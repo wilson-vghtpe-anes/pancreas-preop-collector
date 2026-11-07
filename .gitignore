@@ -1,0 +1,15 @@
+# 帳號密碼
+eip帳號.txt
+*帳號*.txt
+
+# 病人資料（病歷號、輸出、進度、除錯網頁、介面設定）
+病歷號清單.txt
+*mrn*.txt
+*.xlsx
+收集進度.json
+介面設定.json
+除錯HTML/
+
+# Python
+__pycache__/
+*.pyc
